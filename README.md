@@ -29,6 +29,7 @@ Para ver imagénes de la metodología dirigáse a: https://ernestonieto13.wixsit
 
 ### Resultados
 Para ver imágenes de los resultados dirigáse a: https://ernestonieto13.wixsite.com/website
+
 Se probó el pesticida casero en una planta aralia (Polyscias balfouriana) infectada por la plaga de pulgón lanigero (Eriosoma lanigerum). El pesticida de ajo se aplicó a la planta dos veces al día durante tres días y después se comparó la estructura de la planta antes y después de la aplicación.
 
 Después de tres días de aplicación no se observaron cambios significativos en la planta de aralia; las poblaciones de pulgón no disminuyeron, sin embargo, tampoco aumentaron por lo que el ajo cumplió la función de repelente. No obstante la concentración de ajo no fue suficiente para matar a los pulgones por ingestión del pesticida en las hojas.
