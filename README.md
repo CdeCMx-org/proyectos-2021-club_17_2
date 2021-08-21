@@ -17,24 +17,27 @@ Describe de qué trata tu proyecto:
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
 ### Métodología
+Para ver imagénes de la metodología dirigáse a: https://ernestonieto13.wixsite.com/website
+1. Pelar el ajo y desgranar los dientes del ajo.
+2. Picar finamente los dientes de ajo para estos liberen la alicina al fragmentar su estructura.
+3. Vaciar un 1 litro de agua en el recipiente y colocar los dientes de ajo picado y dejar macerar por 1 día.
+4. Vaciar el macerado y calentar hasta que hierva.
+5. Dejar enfriar y colar el macerado
+6. Vaciar el insecticida en el atomizador
+7. Rociar el insecticida en las plantas afectadas 2 veces al día 
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
 ### Resultados
+Para ver imágenes de los resultados dirigáse a: https://ernestonieto13.wixsite.com/website
+Se probó el pesticida casero en una planta aralia (Polyscias balfouriana) infectada por la plaga de pulgón lanigero (Eriosoma lanigerum). El pesticida de ajo se aplicó a la planta dos veces al día durante tres días y después se comparó la estructura de la planta antes y después de la aplicación.
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
+Después de tres días de aplicación no se observaron cambios significativos en la planta de aralia; las poblaciones de pulgón no disminuyeron, sin embargo, tampoco aumentaron por lo que el ajo cumplió la función de repelente. No obstante la concentración de ajo no fue suficiente para matar a los pulgones por ingestión del pesticida en las hojas.
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
 
 
 ### Conclusiones
+El pesticida casero de ajo mostró tener ligero efecto insecticida contra pequeñas plagas, por lo que de seguir investigando la concentración necesaria de ajo y que otros compuestos pueden mejorar la introducción de alicina en el sistema de las plagas, se podrá desarrollar un pesticida casero que pueda mantener a raya a peligrosas plagas que han desarrollado mecanismo de resistencia pesticidas químicos como la mosca blanca.
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
@@ -45,8 +48,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Jesús Ernesto Ramírez Nieto
+* Maite Fabiola Jimenéz Arce
+* Clarissa Pineda Sáncez
+
 
