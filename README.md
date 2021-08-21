@@ -36,8 +36,9 @@ El pesticida casero de ajo mostró tener ligero efecto insecticida contra peque�
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/sRZFWpF4iB8)
+ 2. Insertar el link de tu video en YouTube, [nuestro video]
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/sRZFWpF4iB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ### Equipo
 
